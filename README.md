@@ -5,3 +5,4 @@ These are my solutions to the [L1 Frontend Mentor Challenges](https://www.fronte
 ### L1 Challenges
 
 - QR Code Component: [Code](https://github.com/nsgiles/frontend-mentor-l1/tree/main/qr-code-component) [Demo](https://nsgiles.github.io/frontend-mentor-l1/qr-code-component)
+- Blog Preview Card: [Code](https://github.com/nsgiles/frontend-mentor-l1/tree/main/blog-preview-card) [Demo](https://nsgiles.github.io/frontend-mentor-l1/blog-preview-card/)
