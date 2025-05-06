@@ -15,10 +15,10 @@
 }
 
 :root {
-  --white: hsl(0, 0%, 100%);
-  --slate-300: hsl(212, 45%, 89%);
-  --slate-500: hsl(216, 15%, 48%);
-  --slate-900: hsl(218, 44%, 22%);
+  --slate-300: #d5e1ef;
+  --slate-500: #68778d;
+  --slate-900: #1f314f;
+  --white: #fff;
 
   --space-200: 1rem;
   --space-300: 1.5rem;
@@ -30,20 +30,8 @@
   inset: 0;
   background-color: var(--slate-300);
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-}
-
-.container-a {
-  padding-top: 46px;
-  flex-grow: 1;
-  display: flex;
-  align-items: center;
-}
-
-.container-b {
-  padding: 1rem 0;
 }
 
 .card {
@@ -85,16 +73,4 @@
   line-height: 1.2;
   letter-spacing: 0;
   margin: 0 0 var(--space-200);
-}
-
-.attribution {
-  font-size: 11px;
-  font-family: "Outfit", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  color: var(--slate-900);
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
